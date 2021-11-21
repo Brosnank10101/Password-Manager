@@ -1,0 +1,26 @@
+Welcome To Password Manager Created By Kelsey Brosnan
+
+--------------------------------------------
+
+Installation Guide
+------------------
+
+All You Require Is Python 3.10.0 Or Higher Anything Lower Should Work As well!
+
+You Can Download The Latest Version Of Python Here - https://www.python.org/downloads/
+
+---------------------------------------------------------------------------------------------
+
+User Guide 
+
+- All Generated Passwords Are Saved In The Password.txt File This File Is Created Automatically
+  When The Program Starts So Don't Worry If You Accidentally Delete The File Except You
+  Will Lose All Your Saved Passwords.
+
+
+- The Instructions Of How To Use The Program Are Straight Forward Just Follow What The Program
+  Asks And Enter In What You Will Like To See In A Password.
+
+- If You Find Any Bugs Or You Require Help Feel Free To Email Me At brosnank@stu.otc.school.nz
+
+-----------------------------------------------------------------------------------------------
